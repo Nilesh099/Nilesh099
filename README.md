@@ -1,4 +1,4 @@
-## Hi, I am a Next.js / Software Engineer
+## Hi, I am a React / Next.js Developer
 
 🔭 I am a **Software Engineer** with **4+ years of professional experience**, currently working full-time with **React**.  
 My core tech stack includes:  
@@ -10,4 +10,4 @@ My core tech stack includes:
 📚 **Currently learning:**  
 **Node.js, MongoDB, AI models,** and **Large Language Models (LLMs)** to expand my expertise in backend development and artificial intelligence.  
 
-👯 I am passionate about sharing knowledge—writing about programming on my **Tech Blog (Medium)** and **Twitter**, attending meetups and conferences, and connecting with like-minded professionals. In my free time, I mentor and teach beginners in frontend development.
+👯 Passionate about sharing knowledge through LinkedIn, attending tech events, and mentoring beginners in frontend development.
