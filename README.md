@@ -17,12 +17,14 @@ My core tech stack includes:
 
 💡 Got an exciting idea or project? Whether you’re looking for a freelance Full-Stack developer, a collaborator for your next big build, or just want to talk tech—I’m always open to new opportunities and passionate about working on innovative, impactful projects. Let’s create something amazing together!
 
-<a href="https://www.linkedin.com/in/mahajan-nilesh/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/nileshh_99//" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
-</a>
-<a href="https://twitter.com/NileshMahajan_9" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahajan-nilesh/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/nileshh_99/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/NileshMahajan_9" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" alt="Twitter"/>
+  </a>
+</p>
