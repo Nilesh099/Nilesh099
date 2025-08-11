@@ -11,3 +11,18 @@ My core tech stack includes:
 **Node.js, MongoDB, AI models,** and **Large Language Models (LLMs)** to expand my expertise in backend development and artificial intelligence.  
 
 👯 Passionate about sharing knowledge through LinkedIn, attending tech events, and mentoring beginners in frontend development.
+
+
+## 🤝 Connect with me
+
+💡 Got an exciting idea or project? Whether you’re looking for a freelance Full-Stack developer, a collaborator for your next big build, or just want to talk tech—I’m always open to new opportunities and passionate about working on innovative, impactful projects. Let’s create something amazing together!
+
+<a href="https://www.linkedin.com/in/mahajan-nilesh/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/nileshh_99//" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
+</a>
+<a href="https://twitter.com/NileshMahajan_9" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
+</a>
